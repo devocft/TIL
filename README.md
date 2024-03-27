@@ -11,6 +11,7 @@
 
 <!-- no toc -->
 * [Django](#django)
+* [Git](#git)
 * [Python](#python)
 
 
@@ -18,6 +19,7 @@
 ### Django
 * [Make Queries](django/make-queries.md)
 * [Use QuerySet API](django/use-queryset-api.md)
+* [Create *forms* from *models*](django/create-forms-from-models.md)
 
 
 ### Git

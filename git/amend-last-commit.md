@@ -25,3 +25,5 @@ git push -f
 ```shell
 git push --force
 ```
+
+[source](https://git-scm.com/docs/git-push#Documentation/git-push.txt--f)
