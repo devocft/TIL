@@ -24,6 +24,7 @@
 
 ### Git
 * [Amend Last Commit](git/amend-last-commit.md)
+* [Force Overwrite of Local Files in Pull](git/force-overwrite-of-local-files-in-pull.md)
 
 
 ### Python
