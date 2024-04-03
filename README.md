@@ -17,6 +17,7 @@
 
 
 ### Django
+* [Evaluate a QuerySet](django/evaluate-a-queryset.md)
 * [Make Queries](django/make-queries.md)
 * [Use QuerySet API](django/use-queryset-api.md)
 * [Create *forms* from *models*](django/create-forms-from-models.md)
